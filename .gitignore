@@ -1,3 +1,7 @@
+# Ignore json files strokenet
+strokenet/*.json
+strokenet/*.txt
+
 # Ignore cache / WANDB folders
 cache
 wandb
