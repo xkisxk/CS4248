@@ -1,3 +1,10 @@
+# Ignore cache / WANDB folders
+cache
+wandb
+wandb_mt5
+strokenet/cache
+strokenet/wikipedia_zh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
