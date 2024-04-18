@@ -1,0 +1,5 @@
+subword-nmt
+sacrebleu==1.5.1
+sacremoses
+numpy
+tqdm

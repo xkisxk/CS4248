@@ -12,6 +12,8 @@ wandb_mt5
 strokes/cache
 strokes/wikipedia_zh
 
+data/NIST/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
